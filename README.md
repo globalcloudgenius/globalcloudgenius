@@ -1,5 +1,11 @@
 <div align="center">
 
+![Isaac Obaro — CloudGenius](./assets/cloudgenius-banner.svg)
+
+</div>
+
+<div align="center">
+
 # Isaac Obaro
 
 ## Global Technology Leader · Enterprise & Cloud Architect · Founder, CloudGenius
@@ -59,6 +65,28 @@ I bring the strategic vision and hands-on technical depth required for opportuni
 | Mentorship and capability building | Resilience and disaster recovery | Monitoring and incident readiness |
 | Vendor and solution evaluation | Enterprise infrastructure | Policy and preventive guardrails |
 | Business-value realization | Platform modernization | Vulnerability and patch governance |
+
+## Flagship Technology Portfolio
+
+These programs demonstrate how I approach technology from **executive strategy through architecture, security, engineering, automation, operations, and workforce development**.
+
+| Flagship program | Executive outcome | Current evidence status |
+|---|---|---|
+| **Multi-Cloud Enterprise Landing Zones** | Governed Azure, AWS, and GCP foundations aligned with security, scale, accountability, and controlled innovation | Architecture portfolio |
+| **AWS Enterprise Patch Management Platform** | Automated patch governance, private workload management, compliance visibility, and reduced operational effort | Lab validated |
+| **Hybrid Enterprise Infrastructure Platform** | Integrated compute, identity, networking, storage, monitoring, backup, and automation for realistic enterprise delivery | Active build |
+| **GCP Secure Landing Zone** | Terraform-driven bootstrap, organization governance, Shared VPC, IAM, encryption, logging, and workload foundations | Architecture documented |
+| **Azure Secure Application Platform** | Protected application hosting with private access, centralized security, monitoring, resilience, and controlled administration | Architecture portfolio |
+| **Automated Windows Enterprise Deployment** | Repeatable Windows Server, Active Directory, DNS, domain, and policy deployment using PowerShell, Terraform, and Ansible | Lab validated |
+| **Enterprise Network & Firewall Lab** | Segmented LAN, DMZ, and guest networks with firewall policy, VPN, SD-WAN, cloud connectivity, and remote administration | Active lab |
+| **Security Operations & Detection Lab** | Centralized telemetry, Sentinel and Defender visibility, detection engineering, investigation, and response workflows | Expanding portfolio |
+
+### The value behind the technology
+
+- **For executive leaders:** clearer roadmaps, stronger governance, controlled risk, resilient operations, and technology investments tied to business value.
+- **For engineering teams:** reusable architecture, automated delivery, consistent environments, practical documentation, and reduced manual error.
+- **For security teams:** identity-first controls, segmentation, centralized logging, preventive guardrails, compliance visibility, and incident readiness.
+- **For students and professionals:** realistic enterprise scenarios that teach not only how technology works, but why architectural decisions matter.
 
 ## Technology Ecosystem
 
