@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/cloudgenius-logo.jpeg" alt="Original CloudGenius logo" width="280" />
+
+<br />
+
 ![Isaac Obaro — CloudGenius](./assets/cloudgenius-banner.svg)
 
 </div>
