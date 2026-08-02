@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Isaac Obaro - CloudGenius</title>
-  <desc id="desc">CloudGenius brand banner for global technology leadership, enterprise architecture, cloud, security, automation, and education.</desc>
+  <desc id="desc">Global technology leadership, enterprise architecture, cloud, security, automation, and education.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#06152e"/>
@@ -11,34 +11,22 @@
       <stop offset="0" stop-color="#57d5ff" stop-opacity=".4"/>
       <stop offset="1" stop-color="#57d5ff" stop-opacity="0"/>
     </radialGradient>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#00101f" flood-opacity=".55"/>
-    </filter>
   </defs>
   <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
   <g opacity=".22" stroke="#7ee5ff" fill="none">
-    <path d="M790 60h90l35 45h100l45 55h95"/>
-    <path d="M730 285h110l35-40h95l45-55h140"/>
-    <circle cx="790" cy="60" r="7" fill="#7ee5ff"/>
-    <circle cx="915" cy="105" r="7" fill="#7ee5ff"/>
-    <circle cx="1060" cy="160" r="7" fill="#7ee5ff"/>
-    <circle cx="840" cy="285" r="7" fill="#7ee5ff"/>
-    <circle cx="970" cy="245" r="7" fill="#7ee5ff"/>
+    <path d="M760 60h100l35 45h105l45 55h110"/>
+    <path d="M700 300h130l35-45h110l45-55h135"/>
+    <circle cx="760" cy="60" r="7" fill="#7ee5ff"/>
+    <circle cx="895" cy="105" r="7" fill="#7ee5ff"/>
+    <circle cx="1045" cy="160" r="7" fill="#7ee5ff"/>
+    <circle cx="830" cy="300" r="7" fill="#7ee5ff"/>
+    <circle cx="975" cy="255" r="7" fill="#7ee5ff"/>
   </g>
-
-  <!-- CloudGenius logo adapted from the supplied brand mark -->
-  <g transform="translate(48 45)" filter="url(#shadow)">
-    <path d="M205 163H57C25 163 0 139 0 108c0-29 22-52 50-55C61 21 90 0 125 0c37 0 69 24 79 58 31 3 56 29 56 62 0 24-14 45-34 55-7 4-14 7-21 7z" fill="#2c6edb" stroke="#ffffff" stroke-width="9"/>
-    <text x="129" y="130" text-anchor="middle" fill="#ffffff" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="105" font-weight="900">G</text>
-    <text x="0" y="232" fill="#3d83e6" stroke="#ffffff" stroke-width="7" paint-order="stroke" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="38" font-weight="900">CLOUD</text>
-    <text x="138" y="232" fill="#111111" stroke="#ffffff" stroke-width="7" paint-order="stroke" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="38" font-weight="900">GENIUS</text>
-  </g>
-
-  <text x="355" y="91" fill="#9cecff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">GLOBAL TECHNOLOGY LEADERSHIP</text>
-  <text x="355" y="154" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">ISAAC OBARO</text>
-  <text x="355" y="199" fill="#d9f6ff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Enterprise &amp; Cloud Architect · Founder, CloudGenius</text>
-  <line x1="355" y1="229" x2="1100" y2="229" stroke="#6fdcff" stroke-opacity=".55"/>
-  <text x="355" y="269" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="17">STRATEGY  •  CLOUD  •  SECURITY  •  AUTOMATION  •  EDUCATION</text>
-  <text x="355" y="310" fill="#9cecff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BUILD SECURELY. LEAD STRATEGICALLY. TEACH GLOBALLY.</text>
+  <text x="90" y="88" fill="#9cecff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5">GLOBAL TECHNOLOGY LEADERSHIP</text>
+  <text x="90" y="160" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">ISAAC OBARO</text>
+  <text x="90" y="211" fill="#d9f6ff" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Enterprise &amp; Cloud Architect · Founder, CloudGenius</text>
+  <line x1="90" y1="242" x2="1110" y2="242" stroke="#6fdcff" stroke-opacity=".55"/>
+  <text x="90" y="282" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19">STRATEGY  •  CLOUD  •  SECURITY  •  AUTOMATION  •  EDUCATION</text>
+  <text x="90" y="323" fill="#9cecff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">BUILD SECURELY. LEAD STRATEGICALLY. TEACH GLOBALLY.</text>
 </svg>
