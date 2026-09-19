@@ -1,206 +1,352 @@
-<div align="center">
-
-<img src="./assets/cloudgenius-logo.jpeg" alt="Original CloudGenius logo" width="280" />
-
-<br />
-
-![Isaac Obaro — CloudGenius](./assets/cloudgenius-banner.svg)
-
-</div>
-
-<div align="center">
-
 # Isaac Obaro
 
-## Global Technology Leader · Enterprise & Cloud Architect · Founder, CloudGenius
+## Director | Principal Cloud & Security Architect | Technology Consultant
 
-### Building secure digital foundations. Transforming technology into business value. Developing the next generation of global technology professionals.
+**Azure · AWS · GCP · Cybersecurity · DevOps · FinOps · Hybrid Infrastructure · Platform Engineering**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=globalcloudgenius&color=0A66C2&style=for-the-badge)](https://github.com/globalcloudgenius)
+I lead and deliver cloud, infrastructure, security, automation, and modernization initiatives from **strategy and architecture through implementation, governance, operations, and technical leadership**.
 
-**Cloud Strategy • Enterprise Architecture • Cybersecurity • Digital Transformation • Infrastructure Automation • Technology Leadership**
+My work combines executive-level technology decision making with hands-on engineering. I am comfortable operating as a **Director, Manager, Principal Architect, Technical Lead, Team Lead, Consultant, or Senior Engineer** depending on the engagement and the problem that needs to be solved.
 
-</div>
+I am the Director of **CloudGenius**, where I build practical cloud, cybersecurity, DevOps, FinOps, and hybrid-infrastructure solutions and assessment frameworks.
+
+> **Consulting inquiries:** advisory@cloudgenius.ca  
+> **Website:** https://cloudgenius.ca
 
 ---
 
-## Executive Profile
+## What I Help Organizations Solve
 
-I am a technology leader, enterprise architect, cloud and cybersecurity professional, and the founder of **CloudGenius**. I help organizations translate business priorities into secure, scalable, resilient, and cost-conscious technology capabilities across **Microsoft Azure, Amazon Web Services, Google Cloud, hybrid cloud, and enterprise infrastructure**.
+I work across the full technology lifecycle:
 
-My value extends beyond implementing technology. I connect **strategy, architecture, security, governance, operations, people, and measurable business outcomes**. I am equally comfortable developing a technology roadmap, presenting an architectural decision to stakeholders, designing an enterprise platform, strengthening security controls, automating delivery, or mentoring technical professionals.
+- Cloud strategy, architecture, migration, modernization, and governance
+- Azure, AWS, and GCP platform architecture
+- Cloud security architecture and Zero Trust design
+- Microsoft Sentinel, security monitoring, logging, and detection engineering
+- Identity, Active Directory, Entra ID, privileged access, and secure remote access
+- Hybrid infrastructure, networking, firewalls, VPNs, segmentation, and connectivity
+- Kubernetes, platform engineering, GitOps, CI/CD, and DevSecOps
+- Infrastructure as Code and automation
+- Azure FinOps, cost governance, tagging, and resource accountability
+- Operational resilience, monitoring, backup, recovery, and platform standards
+- Technical leadership, architecture reviews, mentoring, and engineering direction
 
-My work is grounded in a clear leadership philosophy:
+---
 
-> Technology earns its value when it strengthens the organization, protects its stakeholders, enables its people, and produces sustainable results.
+## Leadership Positioning
 
-## Leadership Value
+My portfolio is intentionally built to demonstrate both **leadership capability and technical execution**.
 
-I bring the strategic vision and hands-on technical depth required for opportunities such as:
+### Director / Manager
 
-- **Director of Technology / Director of Cloud & Infrastructure**
-- **Head of Cloud, Infrastructure, Security, or Technology Operations**
-- **Enterprise Architect / Principal Cloud Architect**
-- **Cloud Security Architect / Cybersecurity Leader**
-- **Senior Cloud Engineer / Platform & Automation Lead**
-- **Technology Transformation Advisor / Independent Consultant**
-- **Technical Educator, Mentor, Speaker, and Program Leader**
+I focus on:
 
-### What organizations can expect
+- technology strategy and roadmaps;
+- platform and infrastructure operating models;
+- cloud governance and security standards;
+- delivery prioritization;
+- risk, cost, resilience, and operational ownership;
+- technical team direction and mentoring;
+- translating business priorities into engineering outcomes;
+- stakeholder communication and architectural decision making.
 
-- Technology strategies aligned with business priorities, risk, cost, and growth
-- Enterprise architecture standards, roadmaps, governance, and decision frameworks
-- Secure cloud adoption, migration, modernization, and hybrid integration
-- Executive-level communication translated into practical engineering direction
-- Infrastructure automation that improves speed, consistency, auditability, and scale
-- Security-by-design using Zero Trust, least privilege, segmentation, logging, and policy guardrails
-- Resilient platforms built for availability, monitoring, recovery, and operational ownership
-- Leadership that develops people, strengthens collaboration, and raises delivery standards
+### Principal / Enterprise / Cloud Architect
 
-## Selected Competencies
+I focus on:
 
-| Leadership & Strategy | Architecture & Engineering | Security & Governance |
-|---|---|---|
-| Technology strategy | Azure, AWS, GCP & hybrid cloud | Zero Trust architecture |
-| Digital transformation | Enterprise & solution architecture | IAM and least privilege |
-| Roadmaps and operating models | Landing zones and network design | Cloud and network security |
-| Stakeholder engagement | Infrastructure as Code | Risk and compliance |
-| Technical team leadership | Automation and CI/CD | Security architecture |
-| Mentorship and capability building | Resilience and disaster recovery | Monitoring and incident readiness |
-| Vendor and solution evaluation | Enterprise infrastructure | Policy and preventive guardrails |
-| Business-value realization | Platform modernization | Vulnerability and patch governance |
+- target-state architecture;
+- hybrid and multi-cloud design;
+- identity and security architecture;
+- landing-zone and platform standards;
+- network and connectivity design;
+- governance and policy;
+- resilience and recovery;
+- architecture documentation and implementation guardrails.
 
-## Flagship Technology Portfolio
+### Technical Lead / Team Lead
 
-These programs demonstrate how I approach technology from **executive strategy through architecture, security, engineering, automation, operations, and workforce development**.
+I focus on:
 
-| Flagship program | Executive outcome | Current evidence status |
-|---|---|---|
-| **Multi-Cloud Enterprise Landing Zones** | Governed Azure, AWS, and GCP foundations aligned with security, scale, accountability, and controlled innovation | Architecture portfolio |
-| **AWS Enterprise Patch Management Platform** | Automated patch governance, private workload management, compliance visibility, and reduced operational effort | Lab validated |
-| **Hybrid Enterprise Infrastructure Platform** | Integrated compute, identity, networking, storage, monitoring, backup, and automation for realistic enterprise delivery | Active build |
-| **GCP Secure Landing Zone** | Terraform-driven bootstrap, organization governance, Shared VPC, IAM, encryption, logging, and workload foundations | Architecture documented |
-| **Azure Secure Application Platform** | Protected application hosting with private access, centralized security, monitoring, resilience, and controlled administration | Architecture portfolio |
-| **Automated Windows Enterprise Deployment** | Repeatable Windows Server, Active Directory, DNS, domain, and policy deployment using PowerShell, Terraform, and Ansible | Lab validated |
-| **Enterprise Network & Firewall Lab** | Segmented LAN, DMZ, and guest networks with firewall policy, VPN, SD-WAN, cloud connectivity, and remote administration | Active lab |
-| **Security Operations & Detection Lab** | Centralized telemetry, Sentinel and Defender visibility, detection engineering, investigation, and response workflows | Expanding portfolio |
+- breaking architecture into executable engineering work;
+- design reviews and technical decision making;
+- implementation standards;
+- automation and repeatability;
+- troubleshooting complex infrastructure and cloud issues;
+- mentoring engineers;
+- validating delivery against security and operational requirements.
 
-### The value behind the technology
+### Consultant
 
-- **For executive leaders:** clearer roadmaps, stronger governance, controlled risk, resilient operations, and technology investments tied to business value.
-- **For engineering teams:** reusable architecture, automated delivery, consistent environments, practical documentation, and reduced manual error.
-- **For security teams:** identity-first controls, segmentation, centralized logging, preventive guardrails, compliance visibility, and incident readiness.
-- **For students and professionals:** realistic enterprise scenarios that teach not only how technology works, but why architectural decisions matter.
+I focus on producing evidence-backed assessments, clear recommendations, implementation plans, and practical remediation.
 
-## Technology Ecosystem
+Typical engagement areas include:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,ansible,powershell,bash,python,docker,kubernetes,linux,windows,git,github,vscode&perline=8" alt="CloudGenius technology ecosystem" />
-</p>
+- Azure cost and governance assessments;
+- cloud security reviews;
+- Microsoft Sentinel and SOC onboarding;
+- cloud and hybrid architecture assessments;
+- firewall and secure-access design;
+- Azure Arc and hybrid management;
+- DevOps / DevSecOps maturity;
+- Kubernetes and GitOps platform design;
+- infrastructure automation and modernization.
 
-**Cloud:** Microsoft Azure · Amazon Web Services · Google Cloud  
-**Infrastructure as Code:** Terraform · Bicep · CloudFormation  
-**Automation & Delivery:** Ansible · PowerShell · Bash · Python · GitHub Actions · Azure DevOps  
-**Enterprise Platforms:** Windows Server · Active Directory · DNS · VMware · Proxmox · QNAP  
-**Networking & Security:** VPC/VNet · VPN · SD-WAN · segmentation · firewalls · load balancing · IAM  
-**Operations:** monitoring · patch management · backup · incident response · compliance · documentation
+---
 
-## Professional Credentials
+# Selected Portfolio Evidence
 
-- Microsoft Certified: Cybersecurity Architect
-- Microsoft Certified: Azure Solutions Architect
+These repositories are practical engineering projects and assessment frameworks that demonstrate how I approach real technology problems.
+
+## 1. Azure FinOps Assessment Toolkit
+
+**Repository:** [azure-finops-assessment-toolkit](https://github.com/globalcloudgenius/azure-finops-assessment-toolkit)
+
+A PowerShell-based Azure FinOps assessment framework that:
+
+- discovers enabled subscriptions and live ARM resources;
+- retrieves actual Azure Cost Management data;
+- reconciles billing records with the current Azure estate;
+- independently verifies suspected deleted resources;
+- evaluates governance and tagging readiness;
+- performs financial tie-out checks;
+- produces executive-ready HTML/PDF reporting.
+
+The repository includes the working implementation and a real sanitized assessment result.
+
+**Demonstrates:** Azure architecture, PowerShell, FinOps, governance, automation, executive reporting, consulting assessment methodology.
+
+---
+
+## 2. Microsoft Sentinel AD SOC Lab
+
+**Repository:** [microsoft-sentinel-ad-soc-lab](https://github.com/globalcloudgenius/microsoft-sentinel-ad-soc-lab)
+
+A practical hybrid SOC implementation connecting on-premises Active Directory to Microsoft Sentinel using:
+
+- Azure Arc;
+- Azure Monitor Agent;
+- Data Collection Rules;
+- Log Analytics;
+- selected Windows Security telemetry;
+- KQL;
+- Sentinel watchlists;
+- privileged/Tier-0 context.
+
+The implementation includes controlled security-event testing and validated ingestion.
+
+**Demonstrates:** Microsoft Sentinel, Azure Arc, SIEM engineering, identity monitoring, detection engineering, cost-conscious SOC design.
+
+---
+
+## 3. Secure Remote Access Architecture
+
+**Repository:** [cloudgenius-secure-remote-access-lab](https://github.com/globalcloudgenius/cloudgenius-secure-remote-access-lab)
+
+A documented implementation of centralized identity-backed remote access integrating:
+
+- Active Directory;
+- enterprise PKI;
+- LDAPS;
+- firewall authentication;
+- role-based VPN authorization;
+- certificate trust;
+- split-tunnel remote access;
+- administrative security controls.
+
+**Demonstrates:** identity architecture, PKI, VPN, firewall security, access governance, operational documentation.
+
+---
+
+## 4. Sophos Firewall on Proxmox
+
+**Repository:** [cloudgenius-sophos-firewall-proxmox-lab](https://github.com/globalcloudgenius/cloudgenius-sophos-firewall-proxmox-lab)
+
+Enterprise-style network security lab covering:
+
+- firewall virtualization;
+- Proxmox/KVM deployment;
+- trust-zone segmentation;
+- least-privilege traffic policy;
+- NAT and publishing;
+- VPN;
+- secure administration;
+- monitoring and recovery;
+- automated deployment workflows.
+
+**Demonstrates:** firewall architecture, virtualization, network security, hybrid infrastructure, automation.
+
+---
+
+## 5. CloudGenius OPIP Application
+
+**Repository:** [cloudgenius-opip-app](https://github.com/globalcloudgenius/cloudgenius-opip-app)
+
+A production-style application and DevSecOps platform using:
+
+- Next.js / React / TypeScript;
+- Python FastAPI;
+- PostgreSQL;
+- Docker;
+- automated CI;
+- testing and build validation;
+- observability foundations.
+
+**Demonstrates:** platform engineering, application architecture, containers, CI, software delivery, technical leadership across application and infrastructure boundaries.
+
+---
+
+## 6. OPIP GitOps Platform
+
+**Repository:** [cloudgenius-opip-gitops](https://github.com/globalcloudgenius/cloudgenius-opip-gitops)
+
+GitOps delivery architecture using:
+
+- Kubernetes;
+- Argo CD;
+- Kustomize;
+- immutable image promotion;
+- security scanning;
+- SBOM and signing concepts;
+- non-root workload controls;
+- externalized secrets architecture.
+
+**Demonstrates:** Kubernetes, GitOps, DevSecOps, platform security, continuous delivery architecture.
+
+---
+
+# Technical Capability
+
+| Domain | Technologies / Capabilities |
+|---|---|
+| **Azure** | Entra ID, RBAC, PIM, Policy, VNets, Firewall, NSG, Private Endpoints, VPN, App Gateway/WAF, Storage, Key Vault, Defender, Sentinel, Monitor, Log Analytics, Arc, Backup, ASR |
+| **AWS** | Organizations, VPC, Transit Gateway, EC2, IAM, Config, CloudTrail, GuardDuty, Security Hub, Identity Center, CloudWatch, RDS, MGN, SSM |
+| **GCP** | Organization design, Shared VPC, IAM, Security Command Center, Cloud Armor, Cloud IDS, DNS, KMS, Secret Manager, GKE |
+| **Security** | Microsoft Sentinel, Defender, Palo Alto, Sophos, FortiGate, CrowdStrike, Qualys, Nessus, Zero Trust, segmentation, IAM |
+| **DevOps / IaC** | Terraform, Azure DevOps, GitHub Actions, GitLab, Bicep, ARM, Ansible, Helm |
+| **Containers** | Docker, Kubernetes, AKS, EKS, GKE, Rancher, Argo CD |
+| **Hybrid Infrastructure** | Active Directory, PKI, Windows Server, Linux, Proxmox, VMware, QNAP, VPN, DNS, networking |
+| **Automation** | PowerShell, Bash, Python, Azure CLI |
+| **Operations** | monitoring, logging, backup, recovery, incident readiness, patching, governance |
+
+---
+
+# Professional Credentials
+
+- Microsoft Certified: Cybersecurity Architect Expert
+- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Administrator
-- CRISC
 - CISM
+- CRISC
 - CompTIA Security+
 - ITIL
-- VMware NSX
-
-## Enterprise Architecture Portfolio
-
-### Secure AWS Patch-Management Platform
-
-Designed an enterprise-oriented, multi-AZ AWS architecture for private workloads using Systems Manager, IAM roles, VPC endpoints, controlled NAT egress, CloudWatch logging, patch baselines, compliance reporting, and Terraform automation.
-
-**Business value:** improved security posture, consistent patch governance, reduced manual effort, centralized visibility, and auditable operations.
-
-### Hybrid Enterprise Technology Lab
-
-Building a realistic hybrid environment across Proxmox, Windows Server, Active Directory, DNS, shared QNAP storage, security appliances, segmented networks, automated deployment, monitoring, and backup.
-
-**Business value:** a controlled platform for validating architecture patterns, developing operational capability, teaching enterprise scenarios, and demonstrating end-to-end technology leadership.
-
-### Multi-Account Cloud Governance
-
-Implemented architecture patterns using AWS Organizations, IAM Identity Center, organizational units, service control policies, centralized logging, region restrictions, least-privilege access, and preventive controls.
-
-**Business value:** scalable governance, stronger accountability, reduced configuration risk, and consistent security across cloud accounts.
-
-### Infrastructure Automation
-
-Developing reusable Terraform and Ansible workflows for cloud and on-premises provisioning, Windows deployment, configuration management, security baselines, patching, validation, and documentation.
-
-**Business value:** faster delivery, predictable environments, reduced human error, repeatable controls, and improved knowledge transfer.
-
-## CloudGenius: Building Global Technology Capability
-
-**CloudGenius** is my technology education and advisory initiative dedicated to making enterprise cloud, cybersecurity, DevOps, infrastructure, and AI practical and accessible.
-
-I help aspiring and experienced professionals advance through:
-
-- Realistic enterprise labs and guided projects
-- Azure, AWS, GCP, DevOps, cybersecurity, GRC, and systems-administration training
-- Certification preparation tied to practical capability
-- Portfolio and GitHub project development
-- Architecture thinking and business-value communication
-- Interview preparation, career positioning, and professional mentorship
-- Leadership development for engineers moving into senior and management roles
-
-### For students and professionals
-
-If you want to move beyond memorization and learn how enterprise technology is actually designed, secured, automated, operated, and explained, **CloudGenius is built for you**.
-
-## Engagement Opportunities
-
-I welcome serious conversations with organizations, brands, institutions, and professional communities regarding:
-
-- Director-level and technology-leadership opportunities
-- Enterprise, cloud, and security architecture engagements
-- Advisory, consulting, and transformation projects
-- Infrastructure automation and governance initiatives
-- Corporate and community technology training
-- Global mentorship and workforce-development programs
-- Speaking engagements, panels, workshops, and technical events
-- Strategic partnerships and professional recognition opportunities
-
-## Architecture & Leadership Principles
-
-1. Align technology with measurable business value.
-2. Design security into the architecture from the beginning.
-3. Automate repeatable work and validate every change.
-4. Build resilience, recovery, monitoring, and ownership into the platform.
-5. Govern cloud adoption without preventing innovation.
-6. Communicate complex decisions clearly to technical and executive audiences.
-7. Develop people while delivering technology.
-8. Document systems so that knowledge becomes an organizational asset.
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=globalcloudgenius&show_icons=true&theme=transparent&hide_border=true" alt="Isaac Obaro GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=globalcloudgenius&layout=compact&theme=transparent&hide_border=true" alt="Most-used languages" />
-
-</div>
+- AWS security certification
 
 ---
 
-<div align="center">
+# How I Work
 
-## Build Securely · Lead Strategically · Teach Globally
+I use a repeatable consulting and architecture approach:
 
-**CloudGenius — Developing enterprise solutions and global technology talent.**
+```text
+Business objective
+      |
+      v
+Current-state discovery
+      |
+      v
+Risk / cost / operational assessment
+      |
+      v
+Target architecture
+      |
+      v
+Prioritized roadmap
+      |
+      v
+Implementation
+      |
+      v
+Validation and evidence
+      |
+      v
+Operational handoff / continuous improvement
+```
 
-Available for technology leadership, architecture, consulting, partnerships, speaking, and training opportunities.
+The goal is not to produce architecture that only looks good on a diagram.
 
-</div>
+The goal is to produce technology that is:
+
+- secure;
+- supportable;
+- measurable;
+- cost-conscious;
+- resilient;
+- documented;
+- repeatable;
+- aligned with business requirements.
+
+---
+
+# Engagement Examples
+
+Organizations can engage CloudGenius for focused assessments or hands-on delivery.
+
+### Azure Cost & Governance Assessment
+
+Review current Azure spend, resource ownership, historical/deleted-resource charges, tagging, governance, and optimization opportunities.
+
+### Cloud Security Architecture Review
+
+Assess identity, networking, privileged access, security controls, monitoring, and governance against the organization's requirements.
+
+### Microsoft Sentinel / SOC Engineering
+
+Design or improve log collection, DCRs, KQL, watchlists, analytics rules, incident workflows, and hybrid telemetry.
+
+### Hybrid Cloud Architecture
+
+Design secure connectivity and management across on-premises infrastructure, Azure, AWS, and other environments.
+
+### Firewall & Secure Access
+
+Design segmentation, VPN, administrative access, policy, certificate trust, and remote-access controls.
+
+### Platform Engineering / DevSecOps
+
+Build CI/CD, GitOps, Kubernetes, secrets-management, observability, automation, and infrastructure-as-code patterns.
+
+### Technical Leadership
+
+Provide architecture leadership, technical direction, design review, standards, mentoring, and delivery oversight for engineering teams.
+
+---
+
+# What This GitHub Is Intended to Prove
+
+This portfolio is not a collection of certification notes.
+
+It is intended to provide inspectable evidence of how I:
+
+- analyze technology problems;
+- design architecture;
+- automate implementation;
+- validate results;
+- document decisions;
+- consider security and cost;
+- communicate technical work to leadership;
+- create reusable engineering standards;
+- lead delivery from design through operational outcome.
+
+---
+
+# Availability
+
+I am open to conversations involving:
+
+**Consulting engagements · Architecture projects · Technical leadership · Director / Manager opportunities · Principal Architect roles · Team Lead roles · Cloud & Security engineering engagements**
+
+For consulting and project inquiries:
+
+**CloudGenius**  
+**Email:** advisory@cloudgenius.ca  
+**Web:** https://cloudgenius.ca
